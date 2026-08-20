@@ -1,5 +1,5 @@
 shopping list -
-1.milk
-2.bread
-3.cheese
+1. milk
+2. bread
+3. cheese
 
